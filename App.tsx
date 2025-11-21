@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import AuroraBackground from './components/AuroraBackground';
+import AuroraBackground from './components/auroraBackground/index';
 import ColorPickerSection from './components/ColorPickerSection';
 import PaletteSection from './components/PaletteSection';
 import TypographySection from './components/TypographySection';
